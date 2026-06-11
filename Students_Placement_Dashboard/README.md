@@ -34,7 +34,7 @@ This Power BI dashboard provides insights to Student placement and career readin
 
 📂 Download the Power BI project:
 
-[📥 Students Placement Dashboard PBIX](Students_Placement _Dashboard.pbix
+[📥 Students Placement Dashboard PBIX](Students_Placement_Dashboard.pbix
 )
 
 ---
