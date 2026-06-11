@@ -22,7 +22,7 @@ This Power BI dashboard provides insights to Sales and Target performance, Produ
 
 ### Geographic Analysis
 
-![Geographic Analysis](Geographic_Analysis.png)
+![Geographic Analysis](Geograhic_Analysis.png)
 
 ---
 
