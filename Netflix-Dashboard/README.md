@@ -10,15 +10,15 @@ This Power BI dashboard provides insights into Netflix content, including movies
 
 ### Overview Page
 
-![Overview](overview.png)
+![Overview](Netflix%20Overview.png)
 
 ### Content Analysis Page
 
-![Content Analysis](content_analysis.png)
+![Content Analysis](Netflix%20Content%20analysis.png)
 
 ### Matrix View
 
-![Matrix](matrix.png)
+![Matrix](Netflix%20Matrix.png)
 
 ---
 
