@@ -45,3 +45,6 @@ This Power BI dashboard provides insights to Student placement and career readin
 - Data Modeling
 - Interactive Filters
 - Page Navigation
+- KPI Cards
+- Data Visualization
+- Dashboard Design
