@@ -14,7 +14,7 @@ This Power BI dashboard provides insights into Netflix content, including movies
 
 ### Content Analysis Page
 
-![Content Analysis](Netflix_Content_Analysis.png)
+![Content Analysis](Netflix_Content_analysis.png)
 
 ### Matrix View
 
