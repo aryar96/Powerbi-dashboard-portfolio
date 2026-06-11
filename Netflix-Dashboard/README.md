@@ -10,15 +10,15 @@ This Power BI dashboard provides insights into Netflix content, including movies
 
 ### Overview Page
 
-![Overview](Netflix%20Overview.png)
+![Overview](Netflix_Overview.png)
 
 ### Content Analysis Page
 
-![Content Analysis](Netflix%20Content%20analysis.png)
+![Content Analysis](Netflix_Content_Analysis.png)
 
 ### Matrix View
 
-![Matrix](Netflix%20Matrix.png)
+![Matrix](Netflix_Matrix.png)
 
 ---
 
@@ -26,7 +26,7 @@ This Power BI dashboard provides insights into Netflix content, including movies
 
 📹 Click below to watch the dashboard demo:
 
-[▶️ Watch Netflix Dashboard Demo](Netflix%20dashboard%20recording.mp4)
+[▶️ Watch Netflix Dashboard Demo](Netflix_dashboard_recording.mp4)
 
 ---
 
@@ -34,7 +34,7 @@ This Power BI dashboard provides insights into Netflix content, including movies
 
 📂 Download the Power BI project:
 
-[📥 Netflix Dashboard PBIX](Netflix.pbix)
+[📥 Netflix Dashboard PBIX](netflix.pbix)
 
 ---
 
